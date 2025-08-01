@@ -138,17 +138,3 @@ project-root/
 ├── README.md
 └── requirements.txt
 ```
-
----
-
-##  Acknowledgements
-Inspired by **WsCube Tech’s** [YouTube Tutorial](https://www.youtube.com/watch?v=hK-qUy3UfT8) on building a full analytics project with Python and SQL.
-
----
-
-## ✅ Next Steps
-- Add dashboards using tools like Power BI or Tableau
-- Automate pipeline using Airflow or cron jobs
-- Upload results and visuals to GitHub Pages or a portfolio website
-
----
