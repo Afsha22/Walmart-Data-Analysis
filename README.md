@@ -1,4 +1,4 @@
-# Data Analytics Portfolio Project — Python & SQL (Step-by-Step)
+# Data Analytics Portfolio Project
 
 ## Project Overview
 This project demonstrates a complete data analytics workflow using **Python** and **SQL**. The goal is to extract, clean, analyze, and visualize data to generate actionable business insights.
